@@ -12,7 +12,7 @@ const projects = [
       "A cutting-edge web application leveraging artificial intelligence to deliver intelligent user experiences and automated workflows.",
     tech: ["Next.js", "AI/ML", "TypeScript"],
     image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    link: "#",
+    link: "https://ai-powerd-wine.vercel.app/",
     icon: Sparkles,
     featured: true,
   },
@@ -22,7 +22,7 @@ const projects = [
     description:
       "A comprehensive analytics dashboard with real-time data visualization and advanced reporting.",
     tech: ["React", "Node.js", "PostgreSQL"],
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+    image: "/web%20%26%20dashboard.webp",
     link: "#",
     icon: Code,
     featured: false,
@@ -33,8 +33,8 @@ const projects = [
     description:
       "Streamlined automation solutions that reduce manual tasks and scale your operations.",
     tech: ["Next.js", "APIs", "MongoDB"],
-    image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
-    link: "#",
+    image: "/automation.jpg",
+    link: "https://autmoation-flow.vercel.app/",
     icon: Rocket,
     featured: false,
   },
